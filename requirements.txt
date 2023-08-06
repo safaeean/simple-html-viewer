@@ -1,0 +1,2 @@
+PyGObject==3.42.0
+pywebview==3.10
