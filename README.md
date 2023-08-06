@@ -13,6 +13,11 @@ This project is a simple HTML viewer application built using the GTK graphical u
     ```bash 
     python app.py
     ```
+
+## Screenshots
+![Screenshot 1](screenshots/screenshot1.png)
+
+
 ## How to Use
 1. When the application is launched, a window with a textarea and a WebView will be displayed.
 2. You can enter your desired HTML code in the textarea.
